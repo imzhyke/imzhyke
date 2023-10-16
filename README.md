@@ -1,6 +1,66 @@
 <h1 align="center">Hi 👋, I'm Ezekiel Villadolid</h1>
 <h3 align="center">A passionate frontend developer / mobile developer from Philippines</h3>
-<a align="center" > <img align="center" src="https://media.licdn.com/dms/image/D560BAQHBwwXjQExMzA/company-logo_100_100/0/1691922324689?e=1705536000&v=beta&t=kRmFDwolWmos7MScNI0PoGX47Y7O2hf1i5ez5Q_hrwQ" height="40" width="40" /></a>
+<div class="pvs-entity
+        pvs-entity--padded pvs-list__item--no-padding-in-columns
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/company/96599144/">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/D560BAQHBwwXjQExMzA/company-logo_100_100/0/1691922324689?e=1705536000&amp;v=beta&amp;t=kRmFDwolWmos7MScNI0PoGX47Y7O2hf1i5ez5Q_hrwQ" loading="lazy" height="48" alt="Google Developer Student Clubs - Cebu Technological University logo" id="ember453" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+      <div class="
+              display-flex flex-column full-width">
+        
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 t-bold">
+            <span aria-hidden="true"><!---->Design and Branding Lead<!----></span><span class="visually-hidden"><!---->Design and Branding Lead<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Google Developer Student Clubs - Cebu Technological University · Full-time<!----></span><span class="visually-hidden"><!---->Google Developer Student Clubs - Cebu Technological University · Full-time<!----></span>
+                </span>
+              <span class="t-14 t-normal t-black--light">
+                <span aria-hidden="true"><!---->Aug 2023 - Present · 3 mos<!----></span><span class="visually-hidden"><!---->Aug 2023 - Present · 3 mos<!----></span>
+              </span>
+<!---->          
+      </div>
+  
+
+<!---->
+          <div class="pvs-entity__action-container">
+<!---->          </div>
+        </div>
+
+<!---->      </div>
+    </div>
 
 - 📫 How to reach me **zyk.graphics@gmail.com/punk1313444@gmail.com**
 
