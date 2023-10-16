@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ezekiel Villadolid</h1>
 <h3 align="center">A passionate frontend developer / mobile developer from Philippines</h3>
-<h4 align="center" justify-content="center"> <img src="https://media.licdn.com/dms/image/D560BAQHBwwXjQExMzA/company-logo_100_100/0/1691922324689?e=1705536000&v=beta&t=kRmFDwolWmos7MScNI0PoGX47Y7O2hf1i5ez5Q_hrwQ" height="40" width="40" />(Design and Branding Lead) Google Developer Student Clubs - Cebu Technological University</h3>
+<a align="center" > <img src="https://media.licdn.com/dms/image/D560BAQHBwwXjQExMzA/company-logo_100_100/0/1691922324689?e=1705536000&v=beta&t=kRmFDwolWmos7MScNI0PoGX47Y7O2hf1i5ez5Q_hrwQ" height="40" width="40" />(Design and Branding Lead) Google Developer Student Clubs - Cebu Technological University</a>
 
 - 📫 How to reach me **zyk.graphics@gmail.com/punk1313444@gmail.com**
 
