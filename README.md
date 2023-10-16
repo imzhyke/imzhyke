@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ezekiel Villadolid</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate frontend developer / mobile developer from Philippines</h3>
+<h4 align="center">(Design and Branding Lead) Google Developer Student Clubs - Cebu Technological University</h3>
 
 - 📫 How to reach me **zyk.graphics@gmail.com/punk1313444@gmail.com**
 
