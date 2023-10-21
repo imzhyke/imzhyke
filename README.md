@@ -5,12 +5,35 @@
 <h3 align="center">Design and Branding Lead</h3>
 <p align="center">Google Developer Student Clubs - Cebu Technological University</p>
 
-
-
-
 - 📫 How to reach me **zyk.graphics@gmail.com/punk1313444@gmail.com**
 
-- ⚡ Fun fact **I play ultimate frisbee, longboard and fps games.**
+🎓 Education:
+- Currently a 4th-year student pursuing a Bachelor of Science in Information Technology (BSIT).
+
+💻 Technical Skills:
+- Proficient in web development technologies such as ASP.NET, HTML, CSS, Bootstrap, and JavaScript.
+- Skilled in mobile application development using React Native.
+- Knowledgeable in programming languages including C and Java.
+
+🎨 Graphic Design:
+- As a passionate graphic designer, I combine my love for technology with a keen eye for aesthetics to create visually stunning and user-friendly designs.
+
+🌐 Experience:
+- Actively engaged in the world of technology for four years, continuously expanding my skill set and knowledge.
+
+🌟 Involvement:
+- Proudly serving as the Design and Branding Lead for the GDSC (Google Developer Student Clubs) at CTU (Cebu Technological University) Chapter.
+- Passionate about fostering creative and engaging experiences for technology enthusiasts.
+
+🏆 Interests and Activities:
+- Beyond coding, I enjoy the thrill of playing ultimate frisbee, a testament to my active and competitive spirit.
+- I'm not just limited to the digital world; I'm known to hit the streets with my longboard, exploring the world from a different perspective.
+
+🚀 Aspirations:
+- Striving to make a meaningful impact in the field of technology and continue growing as a developer and designer.
+- With a focus on design and branding, I aim to merge technology and creativity to create compelling and user-friendly solutions.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
