@@ -1,3 +1,5 @@
+[![An image of @imzhyke's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imzhyke)](https://holopin.io/@imzhyke)
+
 <h1 align="center">Hi 👋, I'm Ezekiel Villadolid</h1>
 <h3 align="center">A regular IT student. Passionate frontend developer / mobile developer from Philippines</h3>
 <h3 align="center"><img height="70" width="70" src="https://media.licdn.com/dms/image/D560BAQHBwwXjQExMzA/company-logo_100_100/0/1691922324689?e=1705536000&v=beta&t=kRmFDwolWmos7MScNI0PoGX47Y7O2hf1i5ez5Q_hrwQ"/>
