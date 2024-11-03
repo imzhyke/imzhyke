@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Ezekiel Villadolid</h1>
 <h3 align="center">A regular IT student. Passionate frontend developer / mobile developer from Philippines</h3>
-<h3 align="center"><img height="70" width="70" src="https://media.licdn.com/dms/image/D560BAQHBwwXjQExMzA/company-logo_100_100/0/1691922324689?e=1705536000&v=beta&t=kRmFDwolWmos7MScNI0PoGX47Y7O2hf1i5ez5Q_hrwQ"/>
-<img height="70" width="70" src="https://media.licdn.com/dms/image/C560BAQEz10x8LMWoaA/company-logo_100_100/0/1646417010874?e=1705536000&v=beta&t=s6ENyRWoHAcuPYP0uKOT3ln9LLE_jaR-4_RNc8A8iQc"/></h3>
-<h3 align="center">Design and Branding Lead</h3>
+<!-- <h3 align="center"><img height="70" width="70" src="https://media.licdn.com/dms/image/D560BAQHBwwXjQExMzA/company-logo_100_100/0/1691922324689?e=1705536000&v=beta&t=kRmFDwolWmos7MScNI0PoGX47Y7O2hf1i5ez5Q_hrwQ"/>
+<img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CTU_new_logo.png"/></h3> -->
+<h3 align="center">Former Design and Branding Lead</h3>
 <p align="center">Google Developer Student Clubs - Cebu Technological University</p>
 
 - 📫 How to reach me **zyk.graphics@gmail.com/punk1313444@gmail.com**
