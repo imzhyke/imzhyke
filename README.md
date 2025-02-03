@@ -1,8 +1,13 @@
 [![An image of @imzhyke's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imzhyke)](https://holopin.io/@imzhyke)
 
+
+
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezekiel+Villadolid!" alt="Typing SVG" /></a>
+<img alt="👋" loading="lazy" width="100" height="100" decoding="async" data-nimg="1" src="https://registry.npmmirror.com/@lobehub/fluent-emoji-anim-1/latest/files/assets/1f44b.webp" style="color: transparent; flex: 0 0 auto;">
+<br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=I'm+Ezekiel+P.+Villadolid!" alt="Typing SVG" /></a>
 </h1>
+
 <h3 align="center">A regular IT student. Passionate frontend developer / mobile developer from Philippines</h3>
 <!-- <h3 align="center"><img height="70" width="70" src="https://media.licdn.com/dms/image/D560BAQHBwwXjQExMzA/company-logo_100_100/0/1691922324689?e=1705536000&v=beta&t=kRmFDwolWmos7MScNI0PoGX47Y7O2hf1i5ez5Q_hrwQ"/>
 <img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CTU_new_logo.png"/></h3> -->
