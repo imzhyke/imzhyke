@@ -5,7 +5,7 @@
 <h1 align="center">
 <img alt="👋" loading="lazy" width="100" height="100" decoding="async" data-nimg="1" src="https://registry.npmmirror.com/@lobehub/fluent-emoji-anim-1/latest/files/assets/1f44b.webp" style="color: transparent; flex: 0 0 auto;">
 <br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=I'm+Ezekiel+P.+Villadolid!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=500&lines=I'm+Ezekiel+P.+Villadolid!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A regular IT student. Passionate frontend developer / mobile developer from Philippines</h3>
