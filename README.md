@@ -32,19 +32,6 @@
 
 📫 How to reach me **zyk.graphics@gmail.com**
 
-🎓 Education:
-- Currently a 4th-year student pursuing a Bachelor of Science in Information Technology (BSIT).
-
-💻 Technical Skills:
-- Proficient in web development technologies such as ASP.NET, Next Js, HTML, CSS, Bootstrap, and JavaScript.
-- Skilled in mobile application development using React Native/Expo.
-- Knowledgeable in programming languages including C and Java.
-
-🎨 Graphic Design:
-- As a passionate graphic designer, I combine my love for technology with a keen eye for aesthetics to create visually stunning and user-friendly designs.
-
-🌐 Experience:
-- Actively engaged in the world of technology for four years, continuously expanding my skill set and knowledge.
 
 🌟 Involvement:
 - Proudly serving as the UI/UX Lead for the GDSC (Google Developer Student Clubs) at CTU (Cebu Technological University) Chapter. (Former Design and Branding Lead (2023-2024)
